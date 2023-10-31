@@ -20,9 +20,7 @@ public static void add_Number(int a , int b)
         Subraction(5, 020);
         Divsion(10, 020);
         Multiplection(5, 05);
+
+        System.out.println("New Line to check");
     }
-
-
-
-
 }

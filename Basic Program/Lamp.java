@@ -1,3 +1,4 @@
+//Created class Lamp to use basic funtionality
 class Lamp {
   
         // stores the value for light

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberToWord",
+            "request": "launch",
+            "mainClass": "NumberToWord",
+            "projectName": "JavaPractice_6a40fef"
+        },
+        {
+            "type": "java",
             "name": "Reverse_String",
             "request": "launch",
             "mainClass": "Reverse_String",

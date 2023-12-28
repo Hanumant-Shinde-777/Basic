@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ASCII_Value",
+            "request": "launch",
+            "mainClass": "ASCII_Value",
+            "projectName": "JavaPractice_6a40fef"
+        },
+        {
+            "type": "java",
             "name": "NumberToWord",
             "request": "launch",
             "mainClass": "NumberToWord",

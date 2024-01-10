@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DownParamide",
+            "request": "launch",
+            "mainClass": "DownParamide",
+            "projectName": "JavaPractice_6a40fef"
+        },
+        {
+            "type": "java",
+            "name": "paramide",
+            "request": "launch",
+            "mainClass": "paramide",
+            "projectName": "JavaPractice_6a40fef"
+        },
+        {
+            "type": "java",
             "name": "ASCII_Value",
             "request": "launch",
             "mainClass": "ASCII_Value",

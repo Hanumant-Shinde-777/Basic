@@ -1,5 +1,5 @@
 public class SumOfTwoNum {
-
+//Declaring sub method
 public static void add_Number(int a , int b)
     {
         System.out.println(a + b);
@@ -14,7 +14,7 @@ public static void add_Number(int a , int b)
     public static void Multiplection(int g, int h){
         System.out.println(g*h);
     }
-
+//Declaring Main method
     public static void main(String[] args) {
         add_Number(10,20);
         Subraction(5, 020);

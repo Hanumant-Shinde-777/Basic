@@ -6,19 +6,14 @@ public class Reverse_String {
         //     output = output + str.charAt(i);
         // }
         // System.out.println(output);
-
         StringBuffer sb = new StringBuffer(str);
         sb.reverse();
         System.out.println(sb);
-        
             //using the string builder
-
             StringBuilder builder = new StringBuilder(str);
             builder.reverse();
             System.out.println(builder);
     }
-
-
     public static void main(String[] args) {
         String str = "Hello World";
         reverse(str);

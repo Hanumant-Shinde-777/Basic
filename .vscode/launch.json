@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reverse_From_K_Th_Index",
+            "request": "launch",
+            "mainClass": "Array_Program.Reverse_From_K_Th_Index",
+            "projectName": "JavaPractice_6a40fef"
+        },
+        {
+            "type": "java",
             "name": "DownParamide",
             "request": "launch",
             "mainClass": "DownParamide",

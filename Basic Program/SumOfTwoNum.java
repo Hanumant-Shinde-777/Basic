@@ -17,8 +17,8 @@ public static void add_Number(int a , int b)
 //Declaring Main method
     public static void main(String[] args) {
         add_Number(10,20);
-        Subraction(5, 020);
-        Divsion(10, 020);
+        Subraction(5, 20);
+        Divsion(10, 20);
         Multiplection(5, 05);
 
         System.out.println("New Line to check");

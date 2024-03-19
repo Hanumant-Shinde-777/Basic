@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binary",
+            "request": "launch",
+            "mainClass": "binary",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "Reverse_From_K_Th_Index",
             "request": "launch",
             "mainClass": "Array_Program.Reverse_From_K_Th_Index",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReadValue",
+            "request": "launch",
+            "mainClass": "ReadValue",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "binary",
             "request": "launch",
             "mainClass": "binary",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "leftTringleStar",
+            "request": "launch",
+            "mainClass": "leftTringleStar",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "ReadValue",
             "request": "launch",
             "mainClass": "ReadValue",

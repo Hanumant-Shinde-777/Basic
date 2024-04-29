@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "EvenOdd",
             "request": "launch",
             "mainClass": "EvenOdd",

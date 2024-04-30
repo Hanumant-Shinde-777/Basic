@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Febonnci",
+            "request": "launch",
+            "mainClass": "Febonnci",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "AllPrime",
             "request": "launch",
             "mainClass": "AllPrime",

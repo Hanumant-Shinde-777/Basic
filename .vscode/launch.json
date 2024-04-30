@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountDigit",
+            "request": "launch",
+            "mainClass": "CountDigit",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "Febonnci",
             "request": "launch",
             "mainClass": "Febonnci",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberLeftToRight",
+            "request": "launch",
+            "mainClass": "NumberLeftToRight",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "CountDigit",
             "request": "launch",
             "mainClass": "CountDigit",

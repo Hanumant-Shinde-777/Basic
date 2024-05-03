@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RotateNum",
+            "request": "launch",
+            "mainClass": "RotateNum",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "ReverseNumber",
             "request": "launch",
             "mainClass": "ReverseNumber",

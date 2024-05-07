@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PyTherom",
+            "request": "launch",
+            "mainClass": "PyTherom",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "PrimeFactor",
             "request": "launch",
             "mainClass": "PrimeFactor",

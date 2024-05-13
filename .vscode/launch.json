@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pattern36",
+            "request": "launch",
+            "mainClass": "Pattern36",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
+            "name": "Bujamins",
+            "request": "launch",
+            "mainClass": "Bujamins",
+            "projectName": "VS Studio_6592f67d"
+        },
+        {
+            "type": "java",
             "name": "PyTherom",
             "request": "launch",
             "mainClass": "PyTherom",

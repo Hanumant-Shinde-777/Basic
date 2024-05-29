@@ -15,7 +15,6 @@ public class AllPrime {
             if (count == 0){
                 System.out.print(n + " ");
             }
-            
         }
     }
 }

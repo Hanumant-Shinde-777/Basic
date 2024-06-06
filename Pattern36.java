@@ -1,3 +1,5 @@
+
+// import yhe package 
 import java.util.*;
 public class Pattern36 {
     public static void main(String[] args) {

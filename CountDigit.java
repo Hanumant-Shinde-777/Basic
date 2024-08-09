@@ -10,5 +10,6 @@ public class CountDigit {
             dig++;
         }
         System.out.println("The Number of Count Is" + dig);
+        sc.close();
     }
 }
